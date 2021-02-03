@@ -3,13 +3,13 @@
 
 
 ## Details:
-Created by Harshita Srinivas and Aditi Sejal
+Created by Aditi Sejal and Harshita Srinivas
 
 This is a clone of the strategy game :video_game: , Colour Switch originally developed by Pheonix Games
 
 Made as a part of project in Advanced Programming course at IIIT-Delhi.
 
-Uses Java and JavaFx.
+Uses Java and JavaFx along with OOP concepts.
 
 ## Features:
 1. Game :video_game: progresses in infite display with increasing difficulty
